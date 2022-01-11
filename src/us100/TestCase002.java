@@ -8,6 +8,4 @@ public class TestCase002 {
 
     // step 3 is done
 
-
-
 }
